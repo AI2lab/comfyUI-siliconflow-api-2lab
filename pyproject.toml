@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-siliconflow-api-2lab"
-description = "Unofficial implementation of siliconflow API for ComfyUI\nHow to use:apply api key in ：https://cloud.siliconflow.cn/\nadd api key in config.json"
+description = "Unofficial implementation of siliconflow API for ComfyUI"
 version = "1.0.0"
 license = "LICENSE"
 dependencies = ["openai"]
@@ -10,6 +10,6 @@ Repository = "https://github.com/AI2lab/comfyUI-siliconflow-api-2lab"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "ai2lab"
 DisplayName = "comfyUI-siliconflow-api-2lab"
 Icon = ""
