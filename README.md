@@ -1,5 +1,5 @@
-# DeepSeek
-Unofficial implementation of siliconflow API for ComfyUI
+# Silicon Flow
+Unofficial implementation of siliconflow API for ComfyUI (https://siliconflow.cn/)
 
 # How to use
 - apply api key in ：https://cloud.siliconflow.cn/
