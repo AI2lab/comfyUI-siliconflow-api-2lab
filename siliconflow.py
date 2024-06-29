@@ -1,4 +1,3 @@
-
 import os
 import json
 from openai import OpenAI
@@ -10,6 +9,7 @@ with open(configFile, 'r') as file:
     data = file.read()
 json_data = json.loads(data)
 key = json_data["API_KEY"]
+
 
 NODE_CATEGORY = get_project_category("llm")
 
