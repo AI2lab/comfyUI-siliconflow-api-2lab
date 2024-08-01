@@ -2,7 +2,7 @@
 name = "comfyui-siliconflow-api-2lab"
 description = "Unofficial implementation of siliconflow API for ComfyUI"
 version = "1.0.0"
-license = "LICENSE"
+license = { file = "LICENSE" }
 dependencies = ["openai"]
 
 [project.urls]
